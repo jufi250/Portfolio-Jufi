@@ -1,0 +1,48 @@
+/* ==== Title ==== */
+
+h1 {
+  font-weight: bold;
+  text-align: center;
+  color: #dddcd7;
+  font-size: 47px;
+  font-family: Arial, Helvetica, sans-serif;
+  padding-bottom: 10px;
+  font-variant: small-caps;
+  font-style: italic;
+  border-top-style: groove;
+  border-bottom-style: groove;
+  border-left-style: groove;
+  border-right-style: groove;
+}
+
+/* ==== About Text ==== */
+
+p {
+  text-align: justify;
+  max-width: 700px;
+  line-height: 18px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 20px;
+  color: #dddcd7;
+  text-transform: capitalize;
+  letter-spacing: 1.5px;
+  word-spacing: 5px;
+  text-align: center;
+  font-weight: bold;
+  border-style: solid;
+  border-width: 7px;
+  border-radius: 10px;
+  padding: 5px;
+}
+
+/* ==== Global ==== */
+
+body {
+  background-color: rgb(41, 129, 158);
+  color: #dddcd7;
+  margin: 40px;
+  line-height: 1.6;
+  background-attachment: fixed;
+  margin: auto;
+  text-align: center;
+}
