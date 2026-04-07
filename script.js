@@ -1,7 +1,4 @@
 //* ==== Informasi Pribadi / Profil Pribadi ==== *//
-//sambutan buat yg mampir ke portofolio saya //
-
-alert("You will be redirected to Jufi Rachmana's Portfolio Page");
 
 const hardSkills = [
   "Basic English Speaking, Listening And Reading",
@@ -40,6 +37,13 @@ const Biodata = {
 
 // Global
 // Dom Selection
+console.log(document.title);
+console.log(document.body);
+
+// document.querySelectorALL()
+const p = document.querySelectorAll("p");
+const div = document.querySelectorAll("div");
+
 console.log(document.title);
 console.log(document.body);
 
